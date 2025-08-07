@@ -18,3 +18,7 @@ This is a fun and interactive **Caesar Cipher (Shift Cipher)** encryption-decryp
 ```bash
 git clone https://github.com/your-username/en-de-crypt.git
 cd en-de-crypt
+
+### 2. Run the program
+```bash
+python en-de-crypt.py
