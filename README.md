@@ -10,6 +10,7 @@ This is a fun and interactive **Caesar Cipher (Shift Cipher)** encryption-decryp
 - ✅ Decryption restores the original message, including special characters
 - ✅ Oscar gets to see the intercepted message in encrypted form
 - ✅ Fun denial messages if user refuses to decrypt
+- ✅ Fun hacker simulation
 
 ## 🚀 How to Run
 
