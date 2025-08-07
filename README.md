@@ -1,4 +1,4 @@
-# 🔐 en-de-crypt — Menu-Based Caesar Cipher Simulator
+# 🔐 en-de-crypt — Caesar Cipher Simulator
 
 This is a fun and interactive **Caesar Cipher (Shift Cipher)** encryption-decryption simulator written in Python. It mimics secure communication between **Alice and Bob**, while a hacker **Oscar** tries to snoop on their conversation via a public channel.
 
